@@ -1,4 +1,4 @@
-# php-test
+# Node-test
 Por favor leia atentamente antes de continuar.
 
 Realize o teste abaixo, nele é permitido e sugerido que vocẽ utilize bibliotecas e ferramentas que você acredite que podem te beneficiar para escrita de um código organizado e que se encaixe com a solução desejada.
